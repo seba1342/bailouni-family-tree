@@ -115,7 +115,7 @@ var data = [
   { id: 105, text_1: "Patrick", text_2: "1999", father: 103, color: maleColour },
   { id: 106, text_1: "Chrystal", text_2: "1994", father: 102, color: femaleColour },
   { id: 107, text_1: "Arthur", text_2: "1996", father: 102, color: maleColour },
-  { id: 108, text_1: "Jesse", text_2: "1992", father: 101, color: maleColour },
+  { id: 108, text_1: "Jesse", text_2: "1991", father: 101, color: maleColour },
   { id: 109, text_1: "Raya", text_2: "1993", father: 100, color: femaleColour },
   { id: 110, text_1: "Eliane", text_2: "1994", father: 100, color: femaleColour },
 
@@ -233,7 +233,7 @@ var data_english = [
   { id: 105, text_1: "Patrick", text_2: "1999", father: 103, color: maleColour },
   { id: 106, text_1: "Chrystal", text_2: "1994", father: 102, color: femaleColour },
   { id: 107, text_1: "Arthur", text_2: "1996", father: 102, color: maleColour },
-  { id: 108, text_1: "Jesse", text_2: "1992", father: 101, color: maleColour },
+  { id: 108, text_1: "Jesse", text_2: "1991", father: 101, color: maleColour },
   { id: 109, text_1: "Raya", text_2: "1993", father: 100, color: femaleColour },
   { id: 110, text_1: "Eliane", text_2: "1994", father: 100, color: femaleColour },
 ]
